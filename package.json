@@ -1,0 +1,26 @@
+{
+  "name": "onlineresume4",
+  "version": "1.0.0",
+  "description": "Online resume project",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amiit8/onlineresume4.git"
+  },
+  "keywords": [
+    "resume"
+  ],
+  "author": "Amit Upadhyay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amiit8/onlineresume4/issues"
+  },
+  "homepage": "https://github.com/amiit8/onlineresume4#readme",
+  "dependencies": {
+    "bootstrap": "^4.1.1",
+    "jquery": "^3.3.1"
+  }
+}
